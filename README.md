@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello Worlddddddd 👋
+## Quite Wizard
 
 <!--
 **BlueDragonSpace/BlueDragonSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Currently learning how to use github in the first place, and coding on Godot!
+## I'm interested in making games, pixel art, chiptune, and cool animations!
+## I might update this page as I go along, but I'm happy to be here!!  :)))
+
+## Email me at bluedragon_space@outlook.com, I suppose
