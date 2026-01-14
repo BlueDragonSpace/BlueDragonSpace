@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Currently learning how to use github in the first place, and coding on Godot!
-## I'm interested in making games, pixel art, chiptune, and cool animations!
-## I might update this page as I go along, but I'm happy to be here!!  :)))
+## Uhhhhhhhhhhh Heh-Lo there
+## I'm a Godot Game Dev! Currently I think the best thing I've made was Cascade: https://bluedragon-space.itch.io/cascade
+## Currently in Hack Club! Doing Campfire Flagship!
 
-## Email me at bluedragon_space@outlook.com, I suppose
+
+## I also occasionally do a little of da pixel arts and musics
+## I like video games... possibly a little too much
+## mostly indies: Celeste, Slay the Spire, Silksong, Balatro, Tunic, Animal Well...
+
+## Email me at bluedragon_space@outlook.com!!!!!! (or just send me a cookie 🍪)
